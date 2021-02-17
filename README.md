@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on two mobile apps!
 - 🌱 I’m currently learning javascript, node and react
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: dominate all stacks i'm learning
+- 🥅 2021 Goals: dominate all stacks i'm learning
 - ⚡ Fun fact: I love to play and build robots
 
 ### Connect with me:
