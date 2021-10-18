@@ -1,11 +1,7 @@
 ### Hi there, Gustavo Matteo AKA bestmatteo 👋
 
-## I'm a student, Developer and brazilian!
-- 🔭 I’m currently working on two mobile apps!
-- 🌱 I’m currently learning javascript, node and react
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: dominate all stacks i'm learning
-- ⚡ Fun fact: I love to play and build robots
+## BLOCKCHAIN BLOCKCHAIN BLOCKCHAIN BLOCKCHAIN BLOCKCHAIN BLOCKCHAIN BLOCKCHAIN BLOCKCHAIN 
+Blockchain took control of my mind, I can't think straight, only blockchain.
 
 ### Connect with me:
 
