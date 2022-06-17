@@ -1,8 +1,5 @@
 ### Hi there, Gustavo Matteo AKA bestmatteo 👋
 
-## BLOCKCHAIN BLOCKCHAIN BLOCKCHAIN BLOCKCHAIN BLOCKCHAIN BLOCKCHAIN BLOCKCHAIN BLOCKCHAIN BLOCKCHAIN BLOCKCHAIN BLOCKCHAIN BLOCKCHAIN
-Blockchain took control of my mind, I can't think straight, only blockchain.
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
